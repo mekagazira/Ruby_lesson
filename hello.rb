@@ -166,6 +166,13 @@ end
   end
 end
 
+h = 0
+while h < 10 do
+  puts "#{h}"
+  h+=1
+end
+
+
 # for
 for i in 0..2 do
   puts i
